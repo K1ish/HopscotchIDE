@@ -1,0 +1,2 @@
+# HopscotchIDE
+A new IDE
